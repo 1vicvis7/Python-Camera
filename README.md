@@ -1,6 +1,6 @@
 # Python-Camera
 
-Hi friends :hello: !!,
+Hi friends :hello !!,
 
 This is my first project using Python Tkinter.
 A simple Camera mimic using python, where camera capabilities were used using Open-cv (cv2 module) and GUI using Tkinter.
