@@ -9,7 +9,7 @@ The important thing to note is, to create a executable file, we need to use the 
   -> To install, in Command Prompt/terminal "pip install pyinstaller"
   -> To create executable file, open Command Prompt/terminal in the repective directory where the python script is present (prefereably create a new folder)
   and type in this command 
-        => pyinstaller --onefile <file name>.py
+        => pyinstaller --onefile /<file name/>.py
   -> this will generate the executable file (<file name>.exe) in dist folder which will be created by the command itself.
   
   Hope this project finds you some help!!!!
