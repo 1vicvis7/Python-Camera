@@ -11,6 +11,7 @@ The important thing to note is, to create a executable file, we need to use the 
   and type in this command 
         => pyinstaller --onefile {file name}.py
   -> this will generate the executable file ({file name}.exe) in dist folder which will be created by the command itself.
+  The captured photoes will be saved with their respective timestamp.
   
   Hope this project finds you some help!!!!
   
