@@ -13,6 +13,8 @@ The important thing to note is, to create a executable file, we need to use the 
   -> this will generate the executable file ({file name}.exe) in dist folder which will be created by the command itself.
   The captured photoes will be saved with their respective timestamp.
   
+  The project code is the py_cam.py file, and the excutable file is present in the dist folder (can be directly downloaded and tested).
+  
   Hope this project finds you some help!!!!
   
   Thank you!!
